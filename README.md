@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Created an Hacking Lab </b>
 - <b>Created an Active directory Lab </b>
 
 <h2>👨‍💻 Cybersecurity Certifications:</h2>
