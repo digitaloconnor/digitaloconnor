@@ -24,14 +24,13 @@
   - Long-term crypto investor (low–medium risk, L1 blockchains, AI, RWA, and BTC).  
   - Experimenting with autonomous community personas on X (Twitter) to boost ecosystem engagement.  
   - Exploring sustainable, reward-based models for real-world adoption.
- 
   
 - **Cybersecurity Certifications**
-<a href="https://www.credly.com/badges/6d8a3493-f49a-4aea-a455-837faa9f5208"> Microsoft 365 Certified: Fundamentals</a> <br>
-<a href="https://www.credly.com/badges/eb612518-3ba5-4f03-8112-71790977e126"> Microsoft Certified: Azure Fundamentals</a> <br>
-<a href="https://www.credly.com/badges/3946d725-50ea-411b-84c0-3699c1ffb042"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a> <br>
-<a href="https://www.credly.com/badges/4f2407c1-114c-4d29-9db6-cf692871a484">Google Cybersecurity Specialization</a>  <br>
-<a href="https://www.credly.com/badges/28c35eba-fae1-48b2-9af8-5074dfbd989f"> CompTIA Security+ ce</a>  <br>
+  - Microsoft 365 Certified: Fundamentals
+  - Microsoft Certified: Azure Fundamentals
+  - Microsoft Certified: Security, Compliance, and Identity Fundamentals
+  - Google Cybersecurity Specialization
+  - CompTIA Security+ ce
 
 
 ---
