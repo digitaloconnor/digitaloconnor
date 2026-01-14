@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tony O’Connor
 
-🌐 **Strategic AI & Automation Engineer @ [VeChain Foundation](https://vechain.org)**  
-🔧 I build **AI-driven automations**, **operational intelligence**, and **governance/security analytics** for real-world Web3 adoption.
+🌐 **Strategic AI & Automation Engineer **  
+🔧 I build **AI-driven automations**, **operational intelligence**, and **governance/security analytics** .
 
 ---
 
@@ -31,7 +31,7 @@ Multi-phase program delivery:
 ## 🛠️ Tech Stack
 
 - **Automation & Integration:** n8n, Docker, PostgreSQL, AWS  
-- **AI & Data:** OpenAI (via Bedrock), MCP, Datadog, Cloudflare  
+- **AI & Data:** OpenAI, Claude, MCP, Datadog, Cloudflare  
 - **Blockchain:** VeChain, Bitcoin, RWAs, governance tooling  
 - **Security & Compliance:** Okta, Intune, 1Password, KnowBe4, Dependabot, SonarQube, OWASP ZAP  
 
@@ -39,7 +39,7 @@ Multi-phase program delivery:
 
 ## 📈 Current Focus
 
-- Scaling **AI-powered operational intelligence** at VeChain
+- Scaling **AI-powered operational intelligence** 
 - Building **MCP servers** (n8n-first workflows + tool interfaces)
 - Real-time reporting for sentiment + governance/security analytics
 - AI-driven Slackbots for internal enablement and policy Q&A
