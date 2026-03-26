@@ -12,7 +12,7 @@
 - Provisioning, reporting, compliance checks, incident routing, and data sync pipelines
 - Automation patterns: event-driven orchestration, scheduled controls, human-in-the-loop approvals
 
-### 📊 AI & Analytics (Tools & Analytics @ VeChain)
+### 📊 AI & Analytics (Tools & Analytics)
 Multi-phase program delivery:
 1. **Community Sentiment Analytics** (2025)  
 2. **Blockchain Governance & Security Analytics** (2025–2026)  
