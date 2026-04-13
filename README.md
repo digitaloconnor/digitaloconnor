@@ -1,12 +1,12 @@
 # Tony O’Connor
 
-🌐 ** Automation Engineer · IT Infrastructure · Cork, Ireland **  
-🔧 16 years in IT. 3 years building production automation.  
-   I connect systems, eliminate manual work, and get AI to do the boring stuff.
+ ** Automation Engineer · IT Infrastructure · Cork, Ireland **  
+ 16 years in IT. 3 years building production automation.  
+ I connect systems, eliminate manual work, and get AI to do the boring stuff.
 
 ---
 
-## 🚀 What I Actually Build
+##  What I Actually Build
 
 **n8n Workflow Automation**  
 150+ production workflows across GCP, Azure, and Docker.  
@@ -22,7 +22,7 @@ Email header analysis (SPF/DKIM/DMARC) delegated to GPT-4, plain English risk ve
 Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub · OpenAI/GPT-4 · Claude · Whisper · Pinecone · Veeam · N-able RMM · DattoRMM
 ---
 
-## 🛠️ How I Build
+##  How I Build
 
 - Under 20 nodes per workflow — then sub-workflows
 - Named nodes, section-level sticky notes, no mystery JSON
@@ -33,7 +33,7 @@ Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub ·
 
 ---
 
-## 🧾 Certifications
+##  Certifications
 
 - CompTIA Security+ ce
 - Microsoft 365 Certified: Fundamentals
@@ -51,11 +51,11 @@ Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub ·
 
 ---
 
-## 📬 Open To
+##  Open To
 
 Senior IT Engineering · RPA with AI · Automation-focused roles  
 Hybrid · Cork or remote · Available now
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tony0connor/)  
-- 💻 [GitHub](https://github.com/tony-oconnor)
+-  [LinkedIn](https://www.linkedin.com/in/tony0connor/)  
+-  [GitHub](https://github.com/digitaloconnor/)
 
