@@ -1,6 +1,6 @@
 # Tony O’Connor
 
- ** Automation Engineer · IT Infrastructure · Cork, Ireland **  
+** Automation Engineer · IT Infrastructure · Cork, Ireland **  
  16 years in IT. 3 years building production automation.  
  I connect systems, eliminate manual work, and get AI to do the boring stuff.
 
@@ -53,8 +53,8 @@ Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub ·
 
 ##  Open To
 
-Senior IT Engineering · RPA with AI · Automation-focused roles  
-Hybrid · Cork or remote · Available now
+Automation Engineer · AI Automation · Senior IT Engineering                                                           
+Hybrid or Cork office · Remote (EU) · Available now
 
 -  [LinkedIn](https://www.linkedin.com/in/tony0connor/)  
 -  [GitHub](https://github.com/digitaloconnor/)
