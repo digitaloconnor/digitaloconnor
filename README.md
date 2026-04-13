@@ -1,72 +1,61 @@
-# 👋 Hi, I’m Tony O’Connor
+# Tony O’Connor
 
-🌐 **Strategic AI & Automation Engineer **  
-🔧 I build **AI-driven automations**, **operational intelligence**, and **governance/security analytics** .
-
----
-
-## 🚀 What I Build
-
-### 🤖 AI Automation (n8n)
-- Scalable workflow automation across **M365, Okta, 1Password, GitHub, Slack, AWS, HubSpot** and more
-- Provisioning, reporting, compliance checks, incident routing, and data sync pipelines
-- Automation patterns: event-driven orchestration, scheduled controls, human-in-the-loop approvals
-
-### 📊 AI & Analytics (Tools & Analytics)
-Multi-phase program delivery:
-1. **Community Sentiment Analytics** (2025)  
-2. **Blockchain Governance & Security Analytics** (2025–2026)  
-3. **Smart Account Intelligence & Predictive Automation** (2026+)
-
-- Building AI agents that interface with policy docs, operational data, and blockchain signals
-- Designing dashboards for actionable insights (not just charts)
-
-### 🧱 Blockchain & Web3
-- Long-term investor (low–medium risk): **L1s, AI, RWAs, BTC**
-- Exploring **sustainable, incentive-aligned** models for real-world adoption
-- Experimenting with autonomous community agents for ecosystem engagement
+🌐 ** Automation Engineer · IT Infrastructure · Cork, Ireland **  
+🔧 16 years in IT. 3 years building production automation.  
+   I connect systems, eliminate manual work, and get AI to do the boring stuff.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Actually Build
 
-- **Automation & Integration:** n8n, Docker, PostgreSQL, AWS  
-- **AI & Data:** OpenAI, Claude, MCP, Datadog, Cloudflare  
-- **Blockchain:** VeChain, Bitcoin, RWAs, governance tooling  
-- **Security & Compliance:** Okta, Intune, 1Password, KnowBe4, Dependabot, SonarQube, OWASP ZAP  
+**n8n Workflow Automation**  
+150+ production workflows across GCP, Azure, and Docker.  
+Event-driven orchestration, scheduled jobs, human-in-the-loop approvals — built to the standard where something breaking at 2am is diagnosable in under 5 minutes.
 
+Real example: AI-assisted ticket triage (n8n + GPT-4 + Freshdesk) — 
+**90% reduction in resolution time**. Human agent reads the AI draft and decides. The workflow cannot bypass the human. That's structural, not a rule.
+
+**Security Automation**  
+Email header analysis (SPF/DKIM/DMARC) delegated to GPT-4, plain English risk verdict out. Alert only on HIGH/CRITICAL. Tested against KnowBe4 until false positive rate hit zero. Security+ certified.
+
+**Integration Work**  
+Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub · OpenAI/GPT-4 · Claude · Whisper · Pinecone · Veeam · N-able RMM · DattoRMM
 ---
 
-## 📈 Current Focus
+## 🛠️ How I Build
 
-- Scaling **AI-powered operational intelligence** 
-- Building **MCP servers** (n8n-first workflows + tool interfaces)
-- Real-time reporting for sentiment + governance/security analytics
-- AI-driven Slackbots for internal enablement and policy Q&A
+- Under 20 nodes per workflow — then sub-workflows
+- Named nodes, section-level sticky notes, no mystery JSON
+- Secrets in `.env` files — never hardcoded, never committed
+- Error alerts only for business-critical failures (alert fatigue is a real cost)
+- Self-heal pattern: retry 3× → fallback → *then* escalate
+- Every production workflow ships with README, changelog, `.env.example`, test data, and SECURITY.md
 
 ---
 
 ## 🧾 Certifications
 
-- Microsoft 365 Certified: Fundamentals  
-- Microsoft Certified: Azure Fundamentals  
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals  
+- CompTIA Security+ ce
+- Microsoft 365 Certified: Fundamentals
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - Google Cybersecurity Specialization  
-- CompTIA Security+ ce  
 
 ---
 
-## 🎯 Side Interests
+## Currently Building
 
-- 🚲 Fat-tire e-bikes (researching a Rad Rhino 5 replacement in the EU)  
-- ✈️ Travel & culture (Osaka 🇯🇵 — June 2025)  
-- 📚 Always learning: automation engineering, applied AI, Web3 economics  
+- Structured error log sub-workflow (queryable, pattern detection across failures)
+- API changelog monitor (RSS/GitHub releases → Claude classification → Telegram alert on breaking changes only)
+- First autonomous AI agent (real problem, not a tutorial) 
 
 ---
 
-## 📬 Connect
+## 📬 Open To
+
+Senior IT Engineering · RPA with AI · Automation-focused roles  
+Hybrid · Cork or remote · Available now
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tony0connor/)  
 - 💻 [GitHub](https://github.com/tony-oconnor)
 
-⭐️ Open to collaborating on **AI automation**, **workflow tooling**, **analytics**, and **security-minded engineering**.
