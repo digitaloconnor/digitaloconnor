@@ -51,11 +51,5 @@ Microsoft 365 · Google Workspace · Slack · Telegram · Freshdesk · GitHub ·
 
 ---
 
-##  Open To
 
-Automation Engineer · AI Automation · Senior IT Engineering                                                           
-Hybrid or Cork office · Remote (EU) · Available now
-
--  [LinkedIn](https://www.linkedin.com/in/tony0connor/)  
--  [GitHub](https://github.com/digitaloconnor/)
 
